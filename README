@@ -1,0 +1,30 @@
+Choose at least 1 of the problems below. Feel free to use any data structures.
+1. Write a java code that will output the highest number. Numbers are always
+positive integers.
+Data #1
+Input - [ 1, 2, 3, 4, 9 ]
+Output - 9
+Data #2
+Input - [ 1, 12, 3 ]
+Output - 12
+Data #3
+Input - [ 0, 0, 5, 5]
+Output - 5
+
+2. Write a java code that will output a string if it contains the search string. The
+search string is always the first word in the list of words.
+Data #1
+Input - “ana”, “anastacia”, “bravo”, “banana”, “cabana”,
+Output - “anastacia”, “banana”, “cabana”
+Data #2
+Input - “mmm”, “elevator”, “date”, “vapor”, “late”
+Output - “” <— empty
+
+3. Write a java code that will output the most frequent word and how many times
+it occurred. Most frequent word is always guaranteed to be present in the input.
+Data #1
+Input - “the”, “quick”, “brown”, “fox”, “jumps”, “over”, “the”, “lazy” , “dog”
+Output - “the”, 2
+Data #2
+Input - “rain”, “rain”, “go”, “away”, “come”, “again”, “another”, “day”
+Output - “rain”, 2
